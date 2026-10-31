@@ -1,0 +1,12 @@
+/target/
+/build/
+/dist/
+/reference/adm-5.33/
+/reference/analysis/
+/AXISDeviceManagerSetup*.exe
+/CA.Core.*
+/Server.Common.*
+/Server.Properties.*
+*.log
+core
+core.*

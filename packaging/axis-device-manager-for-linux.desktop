@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Axis Device Manager for Linux
+Comment=Manage Axis network devices on Linux
+Exec=axis-device-manager-for-linux
+Icon=axis-device-manager-for-linux
+Categories=Network;Utility;
+Terminal=false
